@@ -2,8 +2,8 @@
 
 Authentication app written in SwiftUI using Twillio, Apollo GraphQL and Swift Package Manager
 
-![Startup Screen](README Images/Patch Startup Screen.png)
+![Startup Screen](README_Images/Patch_Startup_Screen.png)
 
-![OTP Screen](README Images/Patch OTP Screen.png)
+![OTP Screen](README_Images/Patch_OTP_Screen.png)
 
-![Auth Screen](README Images/Patch Auth Screen.png)
+![Auth Screen](README_Images/Patch_Auth_Screen.png)
