@@ -1,0 +1,20 @@
+mutation ValidateOTP($code : String!) {
+  validateOTP(code: $code) {
+    code
+    expiresAt
+    refreshToken
+    token
+    twilioSid
+    userId
+    validated
+  }
+}
+
+mutation GetTwilioAccessToken {
+  getTwilioAccessToken {
+    factorType
+    identity
+    serviceSid
+    token
+  }
+}

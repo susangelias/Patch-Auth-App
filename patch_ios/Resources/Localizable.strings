@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  patch_ios
+
+  Created by Susan Elias on 9/8/21.
+  
+*/
+
+// UNAUTH HOME SCREEN
+"PatchLogoText" = "patch";
+"HomeScreenButtonTitle" = "Get Started";
+"SecurityTitle" = "Better Security for all accounts";
+"SecuritySubtitle" = "Using the easy one-tap verfication, your account is more secured than ever";
+"SetupTitle" = "Simple Setup";
+"SetupSubtitle" = "Logging into your accounts just got better and faster";
+
+// ACCOUNT SETUP SCREEN
+"AccountSetupTitle" = "Set up your account";
+"AccountSetupOTPInstructions" = "Enter the 6-digit authentication code provided on the Patch web app";
+"NotificationsDeclineTitle" = "“Patch Auth App” Notifications Declined";
+"NotificationsDeclineMessage" = "You chose not to enable notifications. Open the Patch Auth app later to approve log in requests.";
+
+// AUTH HOME SCREEN
+"WelcomeTitle" = "You are logged in now";
+"WelcomeSubtitle" = "Head over to the Patch website\non your computer to spot\nthe hottest leads";
+
